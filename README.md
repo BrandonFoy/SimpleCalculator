@@ -1,3 +1,3 @@
 # Simple Calculator
 
-##Used to do basic math.
+## Used to do basic math.
