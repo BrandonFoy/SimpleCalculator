@@ -53,5 +53,15 @@ td:active{
 }
 
 #trend_notification_app * {
-    background-color: white;
+    visibility: hidden;
+}
+
+body {
+    background: url(https://image.freepik.com/free-vector/math-linear-mathematics-education-circle-background_40453-1035.jpg);
+    background-repeat: none;
+    background-position: center;
+}
+
+#trend_notification_app.trend_notification_app_outer {
+    visibility: hidden;
 }
