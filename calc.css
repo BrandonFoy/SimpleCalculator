@@ -6,7 +6,6 @@ div{
 	margin: 0 auto;			/* horizontally centreing an element */
 	border-radius: 20px;
 	padding: 10px;
-
 }
 
 header{
@@ -18,7 +17,6 @@ header{
 	font-size: xx-large;
 	color: #000000;
 	text-align: center;
-
 }
 
 table{
@@ -35,7 +33,6 @@ td{
 	height: 60px;
 	text-align: center;
 	font-size: xx-large;
-
 }
 
 .orange{
@@ -60,7 +57,6 @@ td:active{
 body {
     background: url(https://image.freepik.com/free-vector/math-linear-mathematics-education-circle-background_40453-1035.jpg);
     background-repeat: none;
-    background-position: center;
 }
 
 #trend_notification_app.trend_notification_app_outer {
