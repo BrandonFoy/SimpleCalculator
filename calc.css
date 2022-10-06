@@ -1,13 +1,3 @@
-div{
-	background-color: #000000;
-	margin: 50px;
-	width: 350px;
-	height: 550px;
-	margin: 0 auto;			/* horizontally centreing an element */
-	border-radius: 20px;
-	padding: 10px;
-}
-
 header{
 	background-color: #d1e0e0;
 	width: 330px;
@@ -20,12 +10,12 @@ header{
 }
 
 table{
-	background-color: #FFFFFF;
-	margin: 0 auto;
+	background-color: #ffffff;
 	margin-top: 20px;
 	margin-right: 10px;
 	margin-left: 10px;
 	border-radius: 20px;
+	margin: 0 auto;
 }
 
 td{
@@ -40,7 +30,7 @@ td{
 }
 
 td:active{
-	background-color: #bebe3f;
+	background-color: #000000;
 	border-radius: 20px;
 }
 
@@ -61,4 +51,24 @@ body {
 
 #trend_notification_app.trend_notification_app_outer {
     visibility: hidden;
+}
+
+.navbar {
+    --bs-navbar-padding-y: .5rem !important;
+	background-image:url("img/background.jpg");
+}
+
+#navbar .container {
+    width: 100% !important;
+    padding: none !important;
+	margin-top: 10px !important;
+    justify-content: space-between;
+}
+
+.navbar-brand{
+    color: rgb(238, 255, 0) !important ;
+}
+
+.nav-link {
+	color: #bebe3f !important;
 }
