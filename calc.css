@@ -66,9 +66,19 @@ body {
 }
 
 .navbar-brand{
-    color: rgb(238, 255, 0) !important ;
+    color: #bc0cd3 !important ;
 }
 
 .nav-link {
-	color: #bebe3f !important;
+	color: #bc0cd3 !important;
+}
+
+.font-black {
+	font-weight: 600 !important;
+	font-size: large !important;
+}
+
+.title-icon {
+	font-weight: 700 !important;
+	font-size: larger !important;
 }
